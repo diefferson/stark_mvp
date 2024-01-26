@@ -1,0 +1,20 @@
+name: stark_mvp
+description: Stark MVP - Tools to use Stark in a MVP project
+version: 0.0.1
+homepage: https://github.com/diefferson/stark_mvp
+
+environment:
+  sdk: '>=3.2.5 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  stark: ^4.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
